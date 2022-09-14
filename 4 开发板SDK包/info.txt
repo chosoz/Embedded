@@ -1,0 +1,13 @@
+https://developer.nvidia.com/ Chrome翻译-> 解决方案 -> 嵌入式和边缘AI -> Jetson开发工具包 -> 入门
+	 
+Hello AI World教程  //官方提供的学习示例
+Jetson项目  //可查看用jetson做的 各种酷炫项目
+           
+NVIDIA Jetson 论坛 //可看到 问题的交流信息和最新动向
+NVIDIA 开发人员计划 //邮箱加入后，可看最前沿的动态
+Jetson AI Fundamentals Series //课程和认证(需翻墙)
+
+Jetson Nano 开发套件 -> 入门指南 //开发板 如何开始开发   
+     
+JetBot 自主机器人套件 -> 开始 //是NVIDIA(英伟达)基于JetsoN Nano开发套件而设计的一款开源智能车项目    
+Jetson Linux 开发人员指南 //嵌入式底层开发
