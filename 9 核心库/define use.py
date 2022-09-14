@@ -12,6 +12,7 @@ class Animal:
     print(this.name," can breath") 
 
 //use.py   使用模块
+//使用模块
 import  my_module  #//导入模块
 my_module.fn()     #//访问模块里对象
 
