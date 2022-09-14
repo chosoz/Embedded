@@ -1,0 +1,28 @@
+{//网上搜索问题
+  如 ubuntu cv2.VideoCapture(0)  打开摄像头失败
+}
+
+{//ubuntu 测试摄像头 能否工作
+插入usb摄像头， 虚拟机会提示连接 ，选择连接到虚拟机 ubuntu	
+	
+$ sudo apt-get install guvcview
+$ guvcview -d /dev/video0	  //能看到摄像头捕捉的视频表示成功
+或
+$ sudo apt-get install cheese
+$ cheese           //能看到摄像头捕捉的视频表示成功
+		
+}	
+
+{//测试本地视频能否播放
+$ sudo apt install ffmpeg
+$ ffmpeg -version //验证安装，能看到版本号说明成功	
+cap = cv2.VideoCapture("test.mp4") 
+}
+
+
+//报错 tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout
+$ pip install opencv-python	 
+//如果使用ffplay命令
+//ffplay -f video4linux2 -input_format mjpeg -framerate 30 -video_size 640*480 /dev/video0
+//可以播放USB摄像头的话，那么很大可能是因为虚拟机的USB控制器的兼容性有问题
+虚拟机->设置->USB控制器，更改一下兼容性，更改为3.0。
