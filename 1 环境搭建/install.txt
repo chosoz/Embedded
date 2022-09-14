@@ -1,0 +1,4 @@
+$ sudo dpkg -i code_1.59.1-1629375198_amd64.deb //用离线包 安装vscode
+             //卸载  dpkg -r code_1.59.1-1629375198_amd64.deb
+启动vscode //点左下角 九宫格 -> 全部 -> VisualStudioCode -> 添加到收藏夹 -> 打开
+中文       //点左边侧边栏田字型图标 -> 搜索 language  -> 点chinese简体 下install -> 重启	
