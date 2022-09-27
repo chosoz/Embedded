@@ -1,4 +1,4 @@
-//use.py 使用者
+//use.py 使用者.
 from sum import  add,sum    #//从模块sum.py中导入 add 和sum函数
 
 if __name__ == '__main__':  # //做主程序入口(调用者是自己时才执行)
