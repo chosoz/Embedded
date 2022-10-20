@@ -16,3 +16,11 @@ namespace OneDriveVersionCleaner
            // ------------------------------------------------------------------------------------------------------------
 
            // TODO: Configure these values. 
+
+
+           string webFullUrl = "
+           string username = "
+           SecureString password = new NetworkCredential("", ",
+             
+          
+          
