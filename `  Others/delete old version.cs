@@ -22,5 +22,5 @@ namespace OneDriveVersionCleaner
            string username = "
            SecureString password = new NetworkCredential("", ",
              
-          在UWP中实现窗口多开
+           string[] folderRootRelativeUrls = {
           
