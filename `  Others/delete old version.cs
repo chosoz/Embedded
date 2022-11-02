@@ -24,3 +24,4 @@ namespace OneDriveVersionCleaner
              
            string[] folderRootRelativeUrls = {
           
+              
