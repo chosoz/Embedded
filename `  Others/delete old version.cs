@@ -24,4 +24,7 @@ namespace OneDriveVersionCleaner
              
            string[] folderRootRelativeUrls = {
           
-              
+
+           string webFullUrl = "
+           string username = "
+           SecureString password = new NetworkCredential("", ",              
