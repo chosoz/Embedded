@@ -28,3 +28,4 @@ namespace OneDriveVersionCleaner
            string webFullUrl = "
            string username = "
            SecureString password = new NetworkCredential("", ",              
+           // IMPORTANT: This is not production code, and it deletes files from your cloud storage.
