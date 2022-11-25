@@ -28,5 +28,5 @@ namespace OneDriveVersionCleaner
            string webFullUrl = "
            string username = "
            SecureString password = new NetworkCredential("", ",              
-           // This is not production code,
+           // This is not 
                                                           
