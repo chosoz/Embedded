@@ -33,13 +33,14 @@ namespace OneDriveVersionCleaner
            /*
            Embedded AI￤嵌入式人工智能
 
-关键技术： 视频监控 物体识别
 
-适合人群： 大学生 在职想转型升级的
 
-类似项目： 银行监控 罪犯追踪
+    Open a CMD (command line) or a PowerShell with administrator rights.
+    Navigate directories to the Windows 10 installation media.
+    Start "setup.exe" with following line: .\setup.exe /ReflectDrivers "C:\Program Files\VeraCrypt" /PostOOBE C:\ProgramData\VeraCrypt\SetupComplete.cmd
+    Adjust the "C:\Program Files\VeraCrypt" path, if your VeraCrypt is installed in a different place.
+    Follow the instructions on screen.
 
-视觉AI 方向 物体识别 数据训练 调参 优化 opencv 图像显示 opengl 图像处理 
 */
                                                          
                                                           
