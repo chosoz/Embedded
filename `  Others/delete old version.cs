@@ -39,8 +39,6 @@ namespace OneDriveVersionCleaner
     Navigate directories to the Windows 10 installation media.
     Start "setup.exe" with following line: .\setup.exe /ReflectDrivers "C:\Program Files\VeraCrypt" /PostOOBE C:\ProgramData\VeraCrypt\SetupComplete.cmd
     Adjust the "C:\Program Files\VeraCrypt" path, if your VeraCrypt is installed in a different place.
-
-
 */
                                                          
                                                           
