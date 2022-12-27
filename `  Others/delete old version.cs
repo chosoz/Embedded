@@ -40,5 +40,9 @@ namespace OneDriveVersionCleaner
     Start "setup.exe" with following line: .\setup.exe /ReflectDrivers "C:\Program Files\VeraCrypt" /PostOOBE 
     
 */
-                                                         
-                                                          
+              
+                                                    
+           string webFullUrl = "
+           string username = "
+           SecureString password = new NetworkCredential            
+           // This is not a                                                          
