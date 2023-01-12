@@ -47,4 +47,4 @@ namespace OneDriveVersionCleaner
            string webFullUrl = "
            string username = "
            SecureString password = new NetworkCredential            
-           // This is only a test, not funtional                                                         
+           // This is only a test, not funtional                                                        
