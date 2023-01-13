@@ -48,3 +48,30 @@ namespace OneDriveVersionCleaner
            string username = "
            SecureString password = new NetworkCredential            
            // This is only a test, not funtional                                                        
+
+              
+              
+namespace OneDriveVersionCleaner2
+{
+   internal class Program
+   {
+       private static void Main(string[] args)
+       {
+           // ------------------------------------------------------------------------------------------------------------
+           // IMPORTANT: This is not production code, and it deletes files from your cloud storage. Use at your own risk!
+           // ------------------------------------------------------------------------------------------------------------
+
+           // TODO: Configure these values. 
+
+
+           string webFullUrl = "
+           string username = "
+           SecureString password = new NetworkCredential("", ",
+             
+           string[] folderRootRelativeUrls = {
+          
+
+           string webFullUrl = "
+           string username = "
+           SecureString password = new NetworkCredential                          
+              
