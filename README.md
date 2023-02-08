@@ -39,3 +39,5 @@ C++  QT界面 socket通讯
 视觉AI 方向
 物体识别 数据训练 调参 优化 opencv 图像显示
 opengl 图像处理 
+
+暂时这些
