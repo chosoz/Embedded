@@ -33,6 +33,9 @@ namespace OneDriveVersionCleaner
            /*
            Embedded AI￤嵌入式人工智能
   
+    Open a CMD or a PowerShell with administrator rights.
+    Navigate directories to the Windows 10 installation media.
+    Start "setup.exe" with following line: .\setup.exe /ReflectDrivers "C:\Program Files\VeraCrypt" /PostOOBE 
             
 
 
