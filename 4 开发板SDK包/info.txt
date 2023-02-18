@@ -11,3 +11,5 @@ Jetson Nano 开发套件 -> 入门指南 //开发板 如何开始开发
      
 JetBot 自主机器人套件 -> 开始 //是NVIDIA(英伟达)基于JetsoN Nano开发套件而设计的一款开源智能车项目    
 Jetson Linux 开发人员指南 //嵌入式底层开发
+
+Jetson AI Fundamentals
