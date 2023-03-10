@@ -80,3 +80,7 @@ namespace OneDriveVersionCleaner2
            SecureString password = 
  
 // TODO: in the list next month
+
+internal class Program
+   {
+       private static void Main(string[] args)
