@@ -23,7 +23,7 @@ void main()
 				{
 					ES=0;
 					flag=0;
-					SBUF='1';//28;	
+					SBUF='1';//28 test;	
 					while(!TI);	
 					TI=0;
 					SBUF='2';//28;	
@@ -44,3 +44,5 @@ void ser() interrupt 4
 	a=SBUF;
 	flag=1;
 }
+
+//28 test;
