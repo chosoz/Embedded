@@ -22084,4 +22084,4 @@ const unsigned char xyx_240_320[] = {
 
 };
 
-/*end of the file*/
+/*end of file*/
